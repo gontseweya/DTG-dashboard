@@ -1,4 +1,4 @@
-# Modern Stock Price Dashboard
+# Stock Price Dashboard
 
 This is a real-time stock price tracking dashboard for major tech companies, built with TypeScript, React, Vite, Recharts, and Tailwind CSS.
 
