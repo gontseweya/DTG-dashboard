@@ -26,10 +26,10 @@ This is a real-time stock price tracking dashboard for major tech companies, bui
 1.  **Clone the repository:**
 
     ```bash
-    git clone &lt;repository-url&gt;
-    cd &lt;project-directory&gt;
+    git clone https://github.com/gontseweya/DTG-dashboard.git
+    
     ```
-    Git is not available in this environment, so skip this.
+    
 
 2.  **Install dependencies:**
 
